@@ -1,3 +1,4 @@
   public static void main(String str []){
      System.out.print("验证要求sshjie151@163.com")
+     System.out.print("我是剪刀妹！")
   }
